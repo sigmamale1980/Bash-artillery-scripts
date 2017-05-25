@@ -4,9 +4,9 @@
 
 
 
-=============
-# Bash swiss-army bits 
-=============
+
+# Bash swiss-army bits #
+
 
 * Assorted scripts of numerous versions.
 
@@ -23,7 +23,7 @@
 
 
 
-==============================
+
 DISCLAIMER:
 
 * These scripts are for educational & pentesting purposes only. 
